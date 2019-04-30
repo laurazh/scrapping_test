@@ -10,7 +10,7 @@ How to scrap website that do not provide API
 - [ ] pupeeteer/chrome headless with different browser
 - [ ] pupeeteer/chrome headless with IP rotation (in different region)
 
-Q : WEBSITE WITH JAVASCRIPT RENDERING ==> ??
+
 --------------------------------
 
 # With pandas
@@ -64,3 +64,19 @@ for i in range(0,max_country*6,6):
     
 df_.columns =['rank','country', 'population','date','perc','source']
 ~~~~
+
+# With scrappy
+
+# With chromeheadless / pupeteer
+
+---------------
+
+Q : WEBSITE WITH JAVASCRIPT RENDERING ==> ??
+Q : how to pass recaptcha ?
+=> voice recognition
+ => Kaldi 
+ => mozilla => do not recognize if noise data, yet => no pretrain model
+=> image recognition 
+Q : how to pass honey pot ?
+Q : what to use for IP rotation ? free VPN?
+Q : what the use to make screen cap of website ? => in A/B Testing?
