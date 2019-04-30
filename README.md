@@ -69,6 +69,9 @@ df_.columns =['rank','country', 'population','date','perc','source']
 
 # With chromeheadless / pupeteer
 
+send with a lot of traffic => multi threading
+got to different links on the same page
+keep cookies session
 ---------------
 
 Q : WEBSITE WITH JAVASCRIPT RENDERING ==> ??
