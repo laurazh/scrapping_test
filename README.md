@@ -3,9 +3,10 @@
 How to scrap website that do not provide API 
 
 - [x] example with pandas
-- [ ] beautifulsoup
+- [x] beautifulsoup
 - [ ] scrappy
 - [ ] selenium/phantom JS
+- [ ] selenium with chromeheadless
 - [ ] pupeeteer/chrome headless
 - [ ] pupeeteer/chrome headless with different browser
 - [ ] pupeeteer/chrome headless with IP rotation (in different region)
